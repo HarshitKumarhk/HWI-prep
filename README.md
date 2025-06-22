@@ -6,16 +6,19 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -45,4 +48,8 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
