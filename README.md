@@ -8,6 +8,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,11 +21,13 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
 ## Array
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0455-assign-cookies) |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +55,13 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
