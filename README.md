@@ -64,4 +64,20 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0208-implement-trie-prefix-tree) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
