@@ -33,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -84,4 +85,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0208-implement-trie-prefix-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
