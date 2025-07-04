@@ -27,6 +27,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0455-assign-cookies) |
 | [0654-maximum-binary-tree](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0654-maximum-binary-tree) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitKumarhk/HWI-prep/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
